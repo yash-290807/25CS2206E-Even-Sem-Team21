@@ -299,23 +299,7 @@ RAGWatch aims to:
 
 ---
 
-## 👨‍💻 Team
 
-**Course:** Cloud Infrastructure and Services  
-**Course Code:** 25CS2206E
-
-| Team Member | Student ID |
-|---|---|
-| Yaswath | 2520030259 |
-| Akilesh | 2520030570 |
-| Bharath | 2520030169 |
-
-**Team Number:** 22  
-**Section:** 01
-
-**Project Guide:** Dr. Harika Devi
-
----
 
 ## 🎓 Academic Project
 
